@@ -1,0 +1,14 @@
+Package                   Version
+------------------------- -----------
+bcrypt==4.0.1
+docling==2.63.0
+easyocr==1.7.2
+fastapi==0.123.5
+paddleocr==3.3.2
+passlib==1.7.4
+plotly==6.5.0
+pwdlib==0.3.0
+PyJWT==2.10.1
+streamlit==1.52.0
+timm==1.0.22
+uvicorn==0.38.0
