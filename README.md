@@ -89,10 +89,20 @@ uvicorn api.main:app --reload
 ```
 
 ![Logging](github_assets\Screenshot 2026-01-26 193430.png)
+
+
 ![After Following the localhost link](github_assets/4.png)
+
+
 ![Example log in FastAPI and get your token](github_assets/4.png)
+
+
 ![Paste the token and upload your CV](github_assets/5.png)
+
+
 ![if PaddleOCR used](github_assets/7.png)
+
+
 ![if DocLing used](github_assets/8.png)
 
 
@@ -141,6 +151,8 @@ Recognized text
 Saved as images & JSON files
 
 ![PaddleOCR Output Visualized](github_assets/ghayda_scanned_0_ocr_res_img.png)
+
+
 ![Streamlit Output](github_assets/11.png)
 
 
