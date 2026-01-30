@@ -63,7 +63,7 @@ def parse_with_openrouter(extracted_text: str):
 
     url = "https://openrouter.ai/api/v1/chat/completions"
     headers = {
-        "Authorization": "Bearer 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", 
+        "Authorization": "Bearer YOUR KEY", 
         "HTTP-Referer": "http://localhost",
         "X-Title": "Resume Parser Script"
     }
@@ -144,3 +144,4 @@ def visualize_paddle_detection_recognition(result, output_folder=UPLOAD_FOLDER):
 
 
 logger.info("[+] Paddle File Excecuted!")
+
