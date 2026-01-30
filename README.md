@@ -1,4 +1,4 @@
-## Resumes_OCR_Parsing
+# Resumes_OCR_Parsing
 
 📄 Resume Parsing System (OCR + LLM)
 
@@ -10,7 +10,7 @@ The system supports English and Arabic resumes and is designed as a modular, ext
 
 
 
-🚀 Features
+## 🚀 Features
 
 OCR-based text extraction from PDF and image files
 
