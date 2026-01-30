@@ -24,7 +24,7 @@ Visualized OCR detection & recognition results
 ![PaddleOCR Output Visualized](github_assets/ghayda_scanned_0_ocr_res_img.png)
 
 
-🧠 System Architecture
+## 🧠 System Architecture
 
 ```text
 Input File (PDF / Image)
@@ -41,7 +41,7 @@ Structured Resume JSON
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -64,7 +64,7 @@ ngrok
 
 
 
-⚙️ Installation
+## ⚙️ Installation
 
 ```
 pip install -r requirements.txt
@@ -82,7 +82,7 @@ PaddleOCR dependencies installed correctly
 
 
 
-▶️ Running the Project
+## ▶️ Running the Project
 
 ```
 uvicorn api.main:app --reload
@@ -173,7 +173,7 @@ Make the system safer for downstream services (APIs, DBs)
 
 
 
-⚠️ Business Limitations
+## ⚠️ Business Limitations
 
 Scanned or low-resolution resumes may produce noisy text.
 
@@ -188,7 +188,7 @@ Human verification is recommended for hiring decisions.
 
 
 
-🔐 Security & Privacy Notes
+## 🔐 Security & Privacy Notes
 
 Resume data is processed temporarily.
 
@@ -198,15 +198,14 @@ API keys must be stored securely.
 
 
 
-
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Fine-tuned domain-specific LLM
 
 
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Built with ❤️ by GhaydA'
 
