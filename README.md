@@ -21,8 +21,6 @@ Structured JSON output
 Visualized OCR detection & recognition results
 
 
-![PaddleOCR Output Visualized](github_assets/ghayda_scanned_0_ocr_res_img.png)
-
 
 ## 🧠 System Architecture
 
@@ -88,7 +86,7 @@ PaddleOCR dependencies installed correctly
 uvicorn api.main:app --reload
 ```
 
-![Logging](github_assets\Screenshot 2026-01-26 193430.png)
+![Logging](github_assets/Screenshot 2026-01-26 193430.png)
 
 
 ![After Following the localhost link](github_assets/4.png)
