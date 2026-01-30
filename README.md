@@ -1,4 +1,4 @@
-# Resumes_OCR_Parsing
+## Resumes_OCR_Parsing
 
 📄 Resume Parsing System (OCR + LLM)
 
