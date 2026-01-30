@@ -86,7 +86,7 @@ PaddleOCR dependencies installed correctly
 uvicorn api.main:app --reload
 ```
 
-![Logging](github_assets/Screenshot 2026-01-26 193430.png)
+![Logging](github_assets/Screenshot%202026-01-26%20193430.png)
 
 
 ![After Following the localhost link](github_assets/4.png)
