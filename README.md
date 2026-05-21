@@ -205,6 +205,8 @@ Fine-tuned domain-specific LLM
 
 ## 👩‍💻 Author
 
-Built with ❤️ by GhaydA'
+GhaydA' Alqudah
+
+Computer Engineer | AI Enthusiast
 
 
