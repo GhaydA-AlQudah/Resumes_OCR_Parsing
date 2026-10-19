@@ -201,12 +201,8 @@ API keys must be stored securely.
 Fine-tuned domain-specific LLM
 
 
+# Author
+**Ghayda Alqudah**
 
-
-## 👩‍💻 Author
-
-GhaydA' Alqudah
-
-Computer Engineer | AI Enthusiast
-
+**Computer Engineer | AI Enthusiast**
 
